@@ -1,16 +1,13 @@
-### Hi there 👋
+### Bienvenue 
 
-<!--
-**sandrinecomeau/sandrinecomeau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Je commence dans le monde de la programmation et j'en suis à mes premiers projets. J'ai beaucoup d'intérêts et j'ai hâte d'en apprendre plus!
 
-Here are some ideas to get you started:
+Avant 
+-🔬 J'ai fait de la recherche et j'ai étudié en sciences biomédicales. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+----------------------------------------------------------------
+### Welcome
+I'm new to programming and I just started my first projects. I am pasionnate about so many things and I can't wait to learn more!
+
+Before
+-🔬 I did some scientific reseach and I studied in biomedical science. 
